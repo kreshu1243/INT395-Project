@@ -1,1 +1,1 @@
-# INT395-Project
+# Fake_Social_Media_Acc_Detection_Project
